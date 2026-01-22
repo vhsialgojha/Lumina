@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Style: AI Outfit Changer",
+  "description": "A sophisticated AI-powered fashion assistant that uses Gemini 2.5 Flash Image to virtually swap your outfits. Capture a photo and transform your look instantly using cutting-edge generative AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
